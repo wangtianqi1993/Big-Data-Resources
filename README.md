@@ -32,6 +32,14 @@ Share my personal resources
 
 * Tensor Flow 介紹 (2/2)<https://www.youtube.com/watch?v=YUCsOgkFqpk>
 
+# 课程
+
+### 机器学习
+
+* Machine Learning Stanford University <https://www.coursera.org/learn/machine-learning>
+
+* 機器學習基石 (Machine Learning Foundations) National Taiwan University <https://www.coursera.org/course/ntumlone>
+
 # 会议
 
 ### 数据挖掘
