@@ -2,7 +2,7 @@
 
 Share my personal resources 
 
-##书籍
+#书籍
 
 * 各种书~各种ppt~更新中~ <http://pan.baidu.com/s/1EaLnZ>
 
@@ -51,7 +51,7 @@ Share my personal resources
 * SIAM <http://www.siam.org/>
 
 
-##QQ群
+#QQ群
 
 * 机器学习&模式识别 246159753
 
@@ -59,7 +59,7 @@ Share my personal resources
 
 * 推荐系统 274750470
 
-##Github	
+#Github	
 
 ###推荐系统
 
@@ -129,7 +129,7 @@ Share my personal resources
 
 * TensorFlow <https://github.com/tensorflow/tensorflow>
 
-## 博客
+# 博客
 
 * 周涛 <http://blog.sciencenet.cn/home.php?mod=space&uid=3075>
 
@@ -174,7 +174,7 @@ Share my personal resources
 * 数据挖掘与数据分析<http://spss-market.r.blog.163.com/>
 
 
-##文章
+#文章
 
 * 心中永远的正能量  <http://blog.csdn.net/yunlong34574>
 
@@ -240,7 +240,7 @@ Share my personal resources
 
 * 关于数据挖掘学习的讨论<https://www.zhihu.com/question/20751219>
 
-## 论文
+# 论文
 
 《推荐系统实战》引用
 
@@ -991,7 +991,7 @@ Share my personal resources
     </a>
 </p>
 
-##各个领域的推荐系统
+#各个领域的推荐系统
 
 **图书**
        
@@ -1057,4 +1057,4 @@ Share my personal resources
 
 
 
-##欢迎贡献资源~~待续
+#欢迎贡献资源~~待续
